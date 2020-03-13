@@ -7,3 +7,8 @@
 	path = RLJO/log2
 	url = git@github.com:RLJO/log2.git
 	branch = master
+
+[submodule "guohuadeng/app-odoo"]
+	path = guohuadeng/app-odoo
+	url = git@github.com:guohuadeng/app-odoo.git
+	branch = 12.0
