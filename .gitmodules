@@ -12,3 +12,8 @@
 	path = guohuadeng/app-odoo
 	url = git@github.com:guohuadeng/app-odoo.git
 	branch = 12.0
+
+[submodule "anhvu-sg/odoo-telegram"]
+	path = anhvu-sg/odoo-telegram
+	url = git@github.com:anhvu-sg/odoo-telegram.git
+	branch = 12.0-mig
