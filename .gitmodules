@@ -12,3 +12,8 @@
 	path = waw-odoo/waw
 	url = git@github.com:waw-odoo/waw.git
 	branch = freight
+
+[submodule "Zmakan-Technical-Solutions/alshulah"]
+	path = Zmakan-Technical-Solutions/alshulah
+	url = git@github.com:Zmakan-Technical-Solutions/alshulah.git
+	branch = app-merge_purchase_order
