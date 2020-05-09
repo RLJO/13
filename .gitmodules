@@ -7,3 +7,8 @@
 	path = RLJO/log2
 	url = git@github.com:RLJO/log2.git
 	branch = master
+
+[submodule "waw-odoo/waw"]
+	path = waw-odoo/waw
+	url = git@github.com:waw-odoo/waw.git
+	branch = freight
