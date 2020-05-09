@@ -12,3 +12,8 @@
 	path = waw-odoo/waw
 	url = git@github.com:waw-odoo/waw.git
 	branch = freight
+
+[submodule "RL-OtherApps/Alshulah-Group"]
+	path = RL-OtherApps/Alshulah-Group
+	url = git@github.com:RL-OtherApps/Alshulah-Group.git
+	branch = 12.0
