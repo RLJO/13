@@ -17,3 +17,8 @@
 	path = Zmakan-Technical-Solutions/alshulah
 	url = git@github.com:Zmakan-Technical-Solutions/alshulah.git
 	branch = app-merge_purchase_order
+
+[submodule "alshulah"]
+	path = alshulah
+	url = git@github.com:Zmakan-Technical-Solutions/alshulah.git
+	branch = app-sale_discount_total
